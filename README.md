@@ -21,8 +21,6 @@ An interactive web-based quiz application with instant feedback and score tracki
 5. Restart quiz
 
 ## Screenshots 🖼️
-![Quiz Interface](./images/quiz-interface.png)
-![Quiz Results](./images/quiz-results.png)
-
-## License 📄
-MIT License
+![Quiz Interface](./images/1.png)
+![Quiz Results](./images/2.png)
+![Quiz Feedback](./images/3.png)
