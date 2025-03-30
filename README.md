@@ -1,5 +1,12 @@
 # Quiz Application 📝
 
+**Company**: CodeTech IT Solutions  
+**Name**: Mayank Verma  
+**Intern ID**: CTO4WY20  
+**Domain**: Front End Development  
+**Duration**: 4 Weeks  
+**Mentor**: Vaishali Shrivastava
+
 An interactive web-based quiz application with instant feedback and score tracking.
 
 ## Features ✨
