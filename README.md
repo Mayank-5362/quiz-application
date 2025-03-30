@@ -1,11 +1,12 @@
 # Quiz Application 📝
 
-**Company**: CodeTech IT Solutions  
-**Name**: MAYANK VERMA 
-**Intern ID**: CTO4WY20  
-**Domain**: FRONT END DEVELOPMENT  
-**Duration**: 4 WEEEKS 
-**Mentor**: NEELA SANTOSH
+**Company:** CodeTech IT Solutions  
+**Name:** MAYANK VERMA  
+**Intern ID:** CTO4WY20  
+**Domain:** FRONT END DEVELOPMENT  
+**Duration:** 4 WEEKS  
+**Mentor:** NEELA SANTOSH
+
 
 
 An interactive web-based quiz application with instant feedback and score tracking.
